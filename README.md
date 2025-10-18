@@ -5,7 +5,6 @@ The rapid growth of the internet has transformed how businesses operate and inte
 
 However, the overwhelming number of reviews for popular products or services often in the thousands makes it difficult for potential customers to process and form informed opinions. To address this challenge, a machine learning–based solution is required.
 
-This thesis focuses on **Aspect-Based Opinion Mining**, a technique used to extract key aspects from reviews and analyze their corresponding sentiments (positive, negative, or neutral). By automatically classifying and summarizing opinions, this system can help readers focus on meaningful insights rather than manually reading every review.
+This research investigates Aspect-Based Opinion Mining, which identifies and evaluates key aspects of textual reviews along with their sentiment polarity (positive, negative, or neutral). Automating this process allows users to efficiently grasp essential insights without reading through large volumes of data.
 
-The study specifically focuses on restaurant reviews, aiming to understand customer preferences, highlight functional feedback, and anticipate user behavior. Through the use of benchmark datasets and a variety of machine learning models, we will empirically evaluate our approach and demonstrate that our proposed methods are comparable to, or exceed, current state-of-the-art techniques.
-
+In particular, the work applies these techniques to restaurant reviews, seeking to understand customer opinions, uncover actionable feedback, and predict behavioral trends. Empirical evaluation on benchmark datasets using diverse machine learning models demonstrates the effectiveness of the proposed approach against established state-of-the-art methods.
