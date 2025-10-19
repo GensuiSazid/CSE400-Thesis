@@ -64,11 +64,11 @@ If you use this work or find it useful in your research, please cite it as:
 
 
 ## 🤝 Contributors
-- **Sazid Hasan Tonmoy** — Lead Researcher & Developer  
-- **Faiyaj Bin Ahmed** — Data Processing & Model Development  
-- **Madhurjya Sarkar** — NLP Pipeline & Evaluation  
-- **Mehejabin Binta Bashar** — Literature Review & Documentation  
-- **Rafi Ahmed** — Data Collection & Visualization  
+- **Sazid Hasan Tonmoy** - Lead Researcher & Developer  
+- **Faiyaj Bin Ahmed** - Data Processing & Model Development  
+- **Madhurjya Sarkar** - NLP Pipeline & Evaluation  
+- **Mehejabin Binta Bashar** - Literature Review & Documentation  
+- **Rafi Ahmed** - Data Collection & Visualization  
 
 **Supervisor:**  
 - **Dr. Farig Yousuf Sadeque**  
@@ -81,10 +81,12 @@ If you use this work or find it useful in your research, please cite it as:
   📧 mostakim@bracu.ac.bd
  
 
-
 ## 📬 Contact
-For queries or collaboration:  
-📧 **sazid.hasan.tonmoy@g.bracu.ac.bd**
+For queries or collaboration, feel free to reach out via email:  
+
+📧 **sazid.hasan.tonmoy@g.bracu.ac.bd**  
+📧 **sazidhasan111@gmail.com**
+📧 **sazidhasantonmoy111@gmail.com**  
 
 
 ## 🧾 License
